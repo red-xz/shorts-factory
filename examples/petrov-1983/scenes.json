@@ -1,0 +1,150 @@
+{
+  "audio_delay": 0.5,
+  "hook": {
+    "end": 3,
+    "image": "hook.png",
+    "scene": 0,
+    "start": 0,
+    "y": 1520
+  },
+  "scenes": [
+    {
+      "audio": "s1.mp3",
+      "captions": [
+        {
+          "color": "gold",
+          "end": 3.0,
+          "start": 0.5,
+          "text": "ONE MAN. ONE DECISION."
+        },
+        {
+          "end": 6.5,
+          "start": 3.5,
+          "text": "FIVE MISSILES WERE COMING"
+        }
+      ],
+      "clip": "clip1.mp4",
+      "length": 8.0
+    },
+    {
+      "audio": "s2.mp3",
+      "captions": [
+        {
+          "color": "gold",
+          "end": 3.5,
+          "start": 0.5,
+          "text": "SERPUKHOV-15, NEAR MOSCOW"
+        },
+        {
+          "end": 8.0,
+          "start": 4.0,
+          "text": "THE ALARM SAID: LAUNCH DETECTED"
+        }
+      ],
+      "clip": "clip2.mp4",
+      "length": 9.0
+    },
+    {
+      "audio": "s3.mp3",
+      "captions": [
+        {
+          "end": 3.0,
+          "start": 0.5,
+          "text": "FIVE MINUTEMAN MISSILES"
+        },
+        {
+          "end": 7.0,
+          "start": 4.0,
+          "text": "GROUND RADAR SHOWED NOTHING"
+        },
+        {
+          "color": "gold",
+          "end": 9.5,
+          "start": 7.5,
+          "text": "A REAL ATTACK WOULDN'T BE FIVE"
+        }
+      ],
+      "clip": "clip3.mp4",
+      "length": 10.0
+    },
+    {
+      "audio": "s4.mp3",
+      "captions": [
+        {
+          "end": 3.0,
+          "start": 0.5,
+          "text": "PROTOCOL SAID: REPORT IT"
+        },
+        {
+          "color": "gold",
+          "end": 6.5,
+          "start": 3.5,
+          "text": "REPORTING MEANT RETALIATION"
+        },
+        {
+          "end": 8.5,
+          "start": 7.0,
+          "text": "HE HAD MINUTES"
+        }
+      ],
+      "clip": "clip4.mp4",
+      "length": 9.0
+    },
+    {
+      "audio": "s5.mp3",
+      "captions": [
+        {
+          "color": "gold",
+          "end": 3.5,
+          "start": 0.5,
+          "text": "HE CALLED IT A FALSE ALARM"
+        },
+        {
+          "end": 6.5,
+          "start": 4.0,
+          "text": "SUNLIGHT ON CLOUDS"
+        },
+        {
+          "end": 8.5,
+          "start": 7.0,
+          "text": "HE WAS RIGHT"
+        }
+      ],
+      "clip": "clip5.mp4",
+      "length": 9.0
+    },
+    {
+      "audio": "s6.mp3",
+      "captions": [
+        {
+          "end": 3.0,
+          "start": 0.5,
+          "text": "NO REWARD. NO PUNISHMENT."
+        },
+        {
+          "color": "gold",
+          "end": 6.0,
+          "start": 3.5,
+          "text": "THE WORLD NEVER KNEW"
+        },
+        {
+          "end": 11.0,
+          "size": 42,
+          "start": 7.0,
+          "text": "WOULD YOU HAVE TRUSTED THE MACHINE?",
+          "y": 1360
+        },
+        {
+          "color": "gold",
+          "end": 11.0,
+          "start": 7.0,
+          "text": "LIKE - COMMENT - SUBSCRIBE",
+          "y": 1540
+        }
+      ],
+      "clip": "clip6.mp4",
+      "length": 11.0
+    }
+  ],
+  "title": "petrov-1983"
+}
