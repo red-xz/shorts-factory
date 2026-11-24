@@ -1,0 +1,10 @@
+# generated media — never committed
+*.mp4
+*.mp3
+*.wav
+*.png
+*.jpg
+*.ass
+edit/
+__pycache__/
+.DS_Store
