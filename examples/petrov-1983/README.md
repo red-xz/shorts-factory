@@ -18,7 +18,7 @@ uses, with placeholder media so it runs anywhere.
 ./build.sh
 ```
 
-Takes a few minutes — the oscillating zoom is the slow part. Output
+Takes a minute or two. Output
 is `petrov-1983-FINAL.mp4`, 56 seconds, 1080x1920, six scenes with a
 hook overlay on the first three seconds and caption pop-ins throughout.
 
